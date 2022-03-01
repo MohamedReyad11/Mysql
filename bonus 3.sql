@@ -1,0 +1,5 @@
+CREATE TABLE GPA (
+    id INT PRIMARY KEY,
+    gpa INT DEFAULT 4,
+    iq INT DEFAULT 100
+);
